@@ -1,7 +1,7 @@
-//Escreva um programa que leia 10 valores inteiros, informados pelo usuário e
-//armazene-os em um vetor. Após isso, lendo o vetor uma única vez e sem criar
-//outros vetores, mostre na tela a média dos valores armazenados no vetor
-//ponderados pelos índices nos quais estão armazenados.
+/*02) - Escreva um programa que leia 10 valores inteiros, informados pelo usuário e
+armazene-os em um vetor. Após isso, lendo o vetor uma única vez e sem criar
+outros vetores, mostre na tela a média dos valores armazenados no vetor
+ponderados pelos índices nos quais estão armazenados.*/
 
 import java.util.Scanner;
 public class Main {

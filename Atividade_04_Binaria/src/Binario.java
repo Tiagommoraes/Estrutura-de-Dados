@@ -1,5 +1,7 @@
-/*04) - Escreva um programa que ordene um vetor de tamanho arbitrário preenchido com números aleatórios e execute a pesquisa por um valor
-passado como parâmetro utilizando o algoritmo da busca binária.*/
+/*04) - Escreva um programa que ordene um vetor de tamanho
+arbitrário preenchido com números aleatórios e execute a 
+pesquisa por um valorpassado como parâmetro utilizando o 
+algoritmo da busca binária.*/
 import java.util.Random;
 import java.util.Arrays;
 import java.util.Scanner;

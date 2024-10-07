@@ -1,6 +1,7 @@
-/*01)-Escreva um programa que leia dois vetores inteiros com dez posições cada. A partir desses vetores, carregue um terceiro vetor onde o valor
-de cada elemento será a média dos elementos de mesmo índice nos dois vetores anteriores.*/
-
+/*01)-Escreva um programa que leia dois vetores inteiros com dez posições cada.
+A partir desses vetores, carregue um terceiro vetor onde o valor
+de cada elemento será a média dos elementos de mesmo índice nos dois 
+vetores anteriores.*/
 import java.util.Scanner;
 public class Media {
     public static void main(String[] args) {
